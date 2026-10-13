@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-10-13T07:00:15.194389002Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-10-13T07:06:36.707368230Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -2418,14 +2418,37 @@
                     {
                       "id": "01a1340f-b04f-7c74-bd6d-e68b84b08b22",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/main_about/1791874804641-rnhzdjrybh.jpg",
-                      "sortOrder": 8,
+                      "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
                       "blockId": "2b7a4809-6413-41d5-bb82-f57cc9d6562f"
                     }
                   ],
                   "blockId": "2b7a4809-6413-41d5-bb82-f57cc9d6562f",
-                  "description": ""
+                  "description": "눈앞에 펼쳐진 바다를 바라보며\n오늘은 조금 느긋하게 쉬어가세요.\n바람을 느끼고, 함께 이야기를 나누는 사이\n평범한 순간도 기분 좋은 여행이 됩니다."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "01a13415-9c7a-7f89-ad40-8c600b72f674",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/main_about/1791875193465-4tlf6uq8k0.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6dad3ae4-8297-4c6e-b785-37ccda4fe1b6"
+                    },
+                    {
+                      "id": "01a13415-9bed-753f-a059-d38af33a68df",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/main_about/1791875193466-0cbo3crn5m.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6dad3ae4-8297-4c6e-b785-37ccda4fe1b6"
+                    }
+                  ],
+                  "blockId": "6dad3ae4-8297-4c6e-b785-37ccda4fe1b6",
+                  "description": " "
                 }
               ]
             }
