@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-10-13T07:35:46.651801677Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-10-13T07:36:56.963458210Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -2224,7 +2224,7 @@
                     "id": "01a13408-b003-7fc7-ae26-ca55fba12d9c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/index_gallery/1791874346568-34luowkdou.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "바다를 바라보는 여유",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -2232,7 +2232,7 @@
                     "id": "01a13408-b09d-7947-8111-9f1e23a3d366",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/index_gallery/1791874346571-si64mssgm5.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "햇살 아래 느긋한 오후",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -2240,7 +2240,7 @@
                     "id": "01a13408-afe0-7ebe-a9ed-6c12c309ffa0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/index_gallery/1791874346569-j10iybrjd4.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "함께라서 더 좋은 저녁",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -2248,7 +2248,7 @@
                     "id": "01a13408-b0a1-7a09-8b44-fe0bb3659b83",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/index_gallery/1791874346577-1e5qye1u60.jpg",
                     "sortOrder": 3,
-                    "description": "",
+                    "description": "자연 속 편안한 시간",
                     "isSelected": true,
                     "blockId": null
                   }
@@ -2966,7 +2966,8 @@
               "blockId": "01a1333e-f6e4-7977-a915-5db7d5578007",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "groupName": "스카이 디럭스 더블"
         },
         {
           "id": "01a1333e-f2bf-74bf-80c7-7bf7266fb0e1",
@@ -3079,7 +3080,8 @@
               "blockId": "01a1333e-f2bf-74bf-80c7-7bf7266fb0e1",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "groupName": "스카이 디럭스 더블"
         },
         {
           "id": "01a1333e-f3c5-79a5-a454-39a1b09daa0d",
