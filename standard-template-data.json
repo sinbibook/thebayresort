@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-10-13T07:14:49.437615515Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-10-13T07:15:35.496522139Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -2264,7 +2264,7 @@
                     "id": "01a1340a-a6fd-7f42-bc59-238d92eb142e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/index_signature/1791874475426-6tnuy0qxv5.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "푸른 바다와 바람에 흔들리는 야자수 사이로 서두르지 않아도 좋은 하루",
                     "isSelected": true,
                     "blockId": null
                   }
