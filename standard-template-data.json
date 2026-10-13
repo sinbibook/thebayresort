@@ -1,0 +1,2315 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-10-13T06:05:41.075573910Z",
+    "templateType": "full_banner_slider_group",
+    "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
+    "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
+  },
+  "property": {
+    "id": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
+    "name": "서귀포 더베이 펜션",
+    "nameEn": "Seogwipo The Bay Pension",
+    "description": "제주 올레 6코스 근처 석양이 아름다운 오션뷰 펜션, 서귀포 더베이입니다.",
+    "subtitle": "",
+    "address": "제주특별자치도 서귀포시 문필로35번길 46 (보목동) 서귀포 더베이 펜션",
+    "latitude": 33.2411988063511,
+    "longitude": 126.593486787115,
+    "contactPhone": [
+      "010-3699-9229"
+    ],
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인 시 숙소 문의",
+    "usageGuide": "※ 객실 내 육류, 튀김류, 생선류 조리 금지\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인 시 숙소 문의\n\n[공용바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 바베큐장\n- 바베큐 형태: 숯불\n- 이용 시간: 18:00~22:00\n- 이용 요금: 4인 기준 30,000원 (1박기준/현장결제)\n※ 사전 예약제 (조기 마감될 수 있습니다.)\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 운영 기간: 2026년 운영 종료\n- 이용 시간: 10:00~21:00\n- 온도: 냉수\n- 이용 요금: 무료\n※ 비치 타올 대여 가능 (2,000원/프런트문의)\n\n[조식 서비스]\n- 이용 객실: 전 객실\n- 이용 요금: 1인 15,000원 (1박기준/현장결제)\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 짐 보관 가능\n- 프린터 이용 가능\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인 계정 필요\n- 어메니티(칫솔, 치약) 유료\n\n[잔디정원]\n- 펜션 내 넓은 잔디 정원이 있습니다.\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료",
+    "reservationGuide": "※ 객실 내 육류, 튀김류, 생선류 조리 금지",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "thebayresort.kr",
+    "realtimeBookingId": "",
+    "ybsId": "",
+    "tripPropertyId": "13424",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
+    "amenities": [
+      "흡연구역(지정장소)",
+      "주차장"
+    ],
+    "nearbyAttractions": [
+      "일출/일몰",
+      "해수욕장",
+      "낚시",
+      "섬"
+    ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [ ],
+    "businessInfo": {
+      "businessName": "더 베이 리조트",
+      "businessNumber": "616-29-29803",
+      "representativeName": "현만식",
+      "businessAddress": "제주도 서귀포시 문필로35번길 46",
+      "businessPhone": "",
+      "businessEmail": "thebayjeju@naver.com",
+      "businessType": "corporate",
+      "businessCategory": "숙박",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "01a133d6-7dfc-76ed-834f-1760be2096d6",
+        "name": "오션뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a133d6-8c96-72ea-9c8c-0c2f6b2bcc20",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133d6-7dfc-76ed-834f-1760be2096d6/main/1791871060789-211o7sajx3.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-8c84-7b00-87b3-921e40635553",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133d6-7dfc-76ed-834f-1760be2096d6/main/1791871060793-fztc24x0fe.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-8d4d-7366-8b49-f5205b83f2b2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133d6-7dfc-76ed-834f-1760be2096d6/main/1791871060789-0092rblyu2.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-8daa-7ba6-9167-04d92a354f07",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133d6-7dfc-76ed-834f-1760be2096d6/main/1791871060794-rkkgzpqshe.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a133cf-ec59-74bd-8781-44f5d5a381f7",
+        "name": "공용수영장",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 운영 기간: 2026년 운영 종료\n- 이용 시간: 10:00~21:00\n- 온도: 냉수\n- 이용 요금: 무료\n※ 비치 타올 대여 가능 (2,000원/프런트문의)",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a133d6-8f69-77b4-a798-2e2b3a5a7d98",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec59-74bd-8781-44f5d5a381f7/main/1791871061458-25pjsm4bpf.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-9007-7155-831d-42365eb58817",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec59-74bd-8781-44f5d5a381f7/main/1791871061462-ijs80h6qjp.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-8f0e-74c0-bd75-078ff59e87d2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec59-74bd-8781-44f5d5a381f7/main/1791871061462-zqb96v5xs5.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-8f26-7857-870b-ae7fcfd4353e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec59-74bd-8781-44f5d5a381f7/main/1791871061466-5fu6wfke1r.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a133cf-ec63-7c53-bee0-a5b7c2215449",
+        "name": "공용바베큐",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 이용 장소: 바베큐장\n- 바베큐 형태: 숯불\n- 이용 시간: 18:00~22:00\n- 이용 요금: 4인 기준 30,000원 (1박기준/현장결제)\n※ 사전 예약제 (조기 마감될 수 있습니다.)",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a133d6-9170-73b8-a346-5ecff98df017",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-7c53-bee0-a5b7c2215449/main/1791871062074-v9l7o8k8bd.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-9153-7967-b95f-7d275956d3c5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-7c53-bee0-a5b7c2215449/main/1791871062071-ez6r847pfv.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-92b1-70e2-b1ec-70eb94dc28c3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-7c53-bee0-a5b7c2215449/main/1791871062077-i13z3bh92y.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a133d4-4a3a-7fe0-b3e9-a28ab3de5d13",
+        "name": "조식 서비스",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 이용 요금: 1인 15,000원 (1박기준/현장결제)",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a133d6-9769-7250-88b7-ecfe770df69f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133d4-4a3a-7fe0-b3e9-a28ab3de5d13/main/1791871063457-juiz30fvnn.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-974e-7543-ad19-623b0bbfc153",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133d4-4a3a-7fe0-b3e9-a28ab3de5d13/main/1791871063458-h47ia77al1.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-9761-737b-b880-1131e2f8b9b7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133d4-4a3a-7fe0-b3e9-a28ab3de5d13/main/1791871063455-6iy6cqhal3.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a133cf-ec63-73de-9581-2b81f216fa8c",
+        "name": "편의 및 주변 시설",
+        "description": "",
+        "usageGuide": "- 와이파이 보유\n- 짐 보관 가능\n- 프린터 이용 가능\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인 계정 필요\n- 어메니티(칫솔, 치약) 유료\n\n[잔디정원]\n- 펜션 내 넓은 잔디 정원이 있습니다.",
+        "displayOrder": 4,
+        "images": [
+          {
+            "id": "01a133d6-940a-7747-8c03-05914561397f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-73de-9581-2b81f216fa8c/main/1791871062752-z4vxeuu6m9.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-952d-765b-a665-49f63cf7cd58",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-73de-9581-2b81f216fa8c/main/1791871062751-6q1zu6cn2m.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-9575-7ff6-985f-ce361f25a30d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-73de-9581-2b81f216fa8c/main/1791871062760-a3aldylowc.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-93f5-703a-b724-164dba420d32",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-73de-9581-2b81f216fa8c/main/1791871062749-4vr9bxbnqv.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-9501-7266-9764-94e8a862c00c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-73de-9581-2b81f216fa8c/main/1791871062763-ooteyl4fu4.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-948e-7316-80da-5de2681d33d7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-73de-9581-2b81f216fa8c/main/1791871062775-iiw9ij8g7u.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-9517-7b8d-9b87-34a87872dafa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-73de-9581-2b81f216fa8c/main/1791871062759-2knn5fh70l.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a133d6-9466-7519-9606-89a183e769e5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a133cf-ec63-73de-9581-2b81f216fa8c/main/1791871062757-tob3znkjic.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [ ],
+        "exterior": [ ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "01a13308-0cb3-770d-af68-67e14e8fbc39",
+      "name": "스카이 디럭스 더블1 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전자레인지",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "냉장고",
+        "취사시설/도구",
+        "치약",
+        "헤어드라이어"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    },
+    {
+      "id": "01a1333e-f6e4-7977-a915-5db7d5578007",
+      "name": "스카이 디럭스 더블2 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "헤어드라이어",
+        "전자레인지",
+        "치약"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 2
+    },
+    {
+      "id": "01a1333e-f2bf-74bf-80c7-7bf7266fb0e1",
+      "name": "스카이 디럭스 더블3 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "헤어드라이어",
+        "전자레인지",
+        "치약"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 3
+    },
+    {
+      "id": "01a1333e-f3c5-79a5-a454-39a1b09daa0d",
+      "name": "스카이디럭스 더블4 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "에어컨",
+        "치약"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 4
+    },
+    {
+      "id": "01a13376-1134-78a4-bbb9-58a5c121c0ca",
+      "name": "스카이 디럭스 더블5 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "치약",
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 5
+    },
+    {
+      "id": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+      "name": "스카이 디럭스 싱글 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 2,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 2,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "치약",
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 6
+    },
+    {
+      "id": "01a1333e-f306-7c46-8c82-7dfc3eb3e3ab",
+      "name": "스카이 디럭스 트윈1 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "전자레인지",
+        "치약",
+        "헤어드라이어"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 7
+    },
+    {
+      "id": "01a1333e-f4a5-713c-b771-58fa71880b5a",
+      "name": "스카이 디럭스 트윈2 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "치약",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "냉장고",
+        "헤어드라이어"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 8
+    },
+    {
+      "id": "01a1333e-f573-7f8b-9fad-5f3d93f61d61",
+      "name": "스카이 디럭스 트윈3 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "치약",
+        "헤어드라이어",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "취사시설/도구",
+        "전자레인지"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 9
+    },
+    {
+      "id": "01a1333e-f5bf-7ac7-9144-5c8479f72485",
+      "name": "스카이 디럭스 트윈4 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "치약"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 10
+    },
+    {
+      "id": "01a1333e-f603-7fce-b2e9-0df10e5a5e8d",
+      "name": "스카이 디럭스 트윈5 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "치약",
+        "헤어드라이어",
+        "전자레인지"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 11
+    },
+    {
+      "id": "01a1333e-f654-767f-ac31-ba7769a3c490",
+      "name": "스카이 디럭스 트윈6 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "치약",
+        "헤어드라이어"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 12
+    },
+    {
+      "id": "01a1333e-f696-7c45-bcaa-7b36821569f9",
+      "name": "스카이디럭스 트윈7 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "치약",
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 13
+    },
+    {
+      "id": "01a1333e-f741-7321-ad04-0a76b16531fa",
+      "name": "가든 디럭스 (온돌/오션뷰)",
+      "description": "원룸형, 온돌룸(침구세트2)+주방1+화장실1\r\n바다전망, 10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "바닥침구"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 2
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 14
+    },
+    {
+      "id": "01a1333e-f970-7ead-89d0-a0f9f0b66e9e",
+      "name": "오션 디럭스1 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 15
+    },
+    {
+      "id": "01a1333e-f852-735c-88b1-6f960cfba1be",
+      "name": "오션 디럭스2 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 16
+    },
+    {
+      "id": "01a1333e-f8d3-7ad4-a4e5-c746e9a893ed",
+      "name": "오션 디럭스3 (오션뷰)",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 17
+    },
+    {
+      "id": "01a13376-27cc-706c-97d3-bfa8d027b954",
+      "name": "오션 패밀리1 (오션뷰)",
+      "description": "분리형, 침대룸(싱글침대2)+침대룸(더블침대1)+주방1+화장실1\r\n20평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 66.12,
+      "baseOccupancy": 4,
+      "maxOccupancy": 5,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 2,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "전자레인지"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 18
+    },
+    {
+      "id": "01a13376-1585-733b-8188-ae1c136b431b",
+      "name": "오션 패밀리2 (오션뷰)",
+      "description": "분리형, 침대룸(싱글침대2)+침대룸(더블침대1)+주방1+화장실1\r\n20평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 66.12,
+      "baseOccupancy": 4,
+      "maxOccupancy": 5,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 2,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 19
+    },
+    {
+      "id": "01a133d0-0569-79e8-bbc2-83c85c70a619",
+      "name": "더베이 패밀리",
+      "description": "분리형, 거실1+침대룸(더블침대1)+침대룸(더블침대1)+온돌룸(침구세트1)+주방1+화장실2\r\n40평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 132.23,
+      "baseOccupancy": 6,
+      "maxOccupancy": 10,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 2,
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "바닥침구"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 3,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 1
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 20
+    },
+    {
+      "id": "01a133cf-fc55-78fa-aa28-078eee43a1b7",
+      "name": "블루오션 패밀리",
+      "description": "거실1+침대룸(더블침대2)+침대룸(더블침대1)+주방1+화장실1\r\n30평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 99.17,
+      "baseOccupancy": 6,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 2,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [ ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 21
+    },
+    {
+      "id": "01a133d0-03dd-78e7-aa20-d17d196c0de3",
+      "name": "그랑데 패밀리 (독채/파노라마 오션뷰)",
+      "description": "분리형, 거실1+침대룸(더블침대1)+침대룸(싱글침대2)+주방1+화장실1\r\n30평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 99.17,
+      "baseOccupancy": 6,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 2,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전기포트",
+        "헤어드라이어",
+        "전자레인지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 22
+    }
+  ],
+  "homepage": {
+    "id": "01a133dc-45b0-7257-84dd-804f55eae536",
+    "domain": "thebayresort.kr",
+    "templateType": "full_banner_slider_group",
+    "images": [
+      {
+        "logo": [ ]
+      }
+    ],
+    "seo": {
+      "title": "",
+      "description": "",
+      "keywords": "",
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "closing": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "essence": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "gallery": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "signature": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "notice": {
+                "title": "",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ]
+            }
+          ]
+        },
+        "room": [ ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "enabled": false
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "hero": {
+                "images": [ ]
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        }
+      },
+      "popup": {
+        "popups": [ ]
+      },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": null
+      },
+      "property": {
+        "name": "서귀포 더베이 펜션",
+        "images": [ ],
+        "nameEn": "Seogwipo The Bay Pension"
+      },
+      "roomtypes": [
+        {
+          "id": "01a13308-0cb3-770d-af68-67e14e8fbc39",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f6e4-7977-a915-5db7d5578007",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f2bf-74bf-80c7-7bf7266fb0e1",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f3c5-79a5-a454-39a1b09daa0d",
+          "images": [ ]
+        },
+        {
+          "id": "01a13376-1134-78a4-bbb9-58a5c121c0ca",
+          "images": [ ]
+        },
+        {
+          "id": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f306-7c46-8c82-7dfc3eb3e3ab",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f4a5-713c-b771-58fa71880b5a",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f573-7f8b-9fad-5f3d93f61d61",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f5bf-7ac7-9144-5c8479f72485",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f603-7fce-b2e9-0df10e5a5e8d",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f654-767f-ac31-ba7769a3c490",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f696-7c45-bcaa-7b36821569f9",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f741-7321-ad04-0a76b16531fa",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f970-7ead-89d0-a0f9f0b66e9e",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f852-735c-88b1-6f960cfba1be",
+          "images": [ ]
+        },
+        {
+          "id": "01a1333e-f8d3-7ad4-a4e5-c746e9a893ed",
+          "images": [ ]
+        },
+        {
+          "id": "01a13376-27cc-706c-97d3-bfa8d027b954",
+          "images": [ ]
+        },
+        {
+          "id": "01a13376-1585-733b-8188-ae1c136b431b",
+          "images": [ ]
+        },
+        {
+          "id": "01a133d0-0569-79e8-bbc2-83c85c70a619",
+          "images": [ ]
+        },
+        {
+          "id": "01a133cf-fc55-78fa-aa28-078eee43a1b7",
+          "images": [ ]
+        },
+        {
+          "id": "01a133d0-03dd-78e7-aa20-d17d196c0de3",
+          "images": [ ]
+        }
+      ]
+    }
+  }
+}
