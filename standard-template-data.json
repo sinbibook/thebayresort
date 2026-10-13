@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-10-13T07:15:35.496522139Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-10-13T07:23:36.621374101Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -363,7 +363,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 더블",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -436,7 +436,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 더블",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -509,7 +509,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 더블",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -558,9 +558,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -582,7 +582,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 더블",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -631,9 +631,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -655,7 +655,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 더블",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -704,9 +704,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -801,7 +801,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 트윈",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -851,9 +851,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -875,7 +875,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 트윈",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -925,9 +925,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -949,7 +949,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 트윈",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -999,9 +999,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1023,7 +1023,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 트윈",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -1073,9 +1073,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1097,7 +1097,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 트윈",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -1147,9 +1147,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1171,7 +1171,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 트윈",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -1221,9 +1221,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1245,7 +1245,7 @@
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,치약",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 트윈",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
@@ -1295,9 +1295,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1393,7 +1393,7 @@
       "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "오션 디럭스",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
@@ -1442,9 +1442,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1466,7 +1466,7 @@
       "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "오션 디럭스",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
@@ -1515,9 +1515,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1539,7 +1539,7 @@
       "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "오션 디럭스",
       "size": 33.06,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
@@ -1588,9 +1588,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1612,7 +1612,7 @@
       "description": "분리형, 침대룸(싱글침대2)+침대룸(더블침대1)+주방1+화장실1\r\n20평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "오션 패밀리",
       "size": 66.12,
       "baseOccupancy": 4,
       "maxOccupancy": 5,
@@ -1675,9 +1675,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -1699,7 +1699,7 @@
       "description": "분리형, 침대룸(싱글침대2)+침대룸(더블침대1)+주방1+화장실1\r\n20평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "오션 패밀리",
       "size": 66.12,
       "baseOccupancy": 4,
       "maxOccupancy": 5,
@@ -1762,9 +1762,9 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "",
-        "checkout": "",
-        "checkinDeadline": ""
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "roomOptions": {
         "petState": "N",
@@ -2808,6 +2808,33 @@
               "isSelected": true,
               "blockId": "01a13308-0cb3-770d-af68-67e14e8fbc39",
               "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13425-2d9e-7737-83c9-9b26272bf16d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791876213690-79b6xucpou.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a13308-0cb3-770d-af68-67e14e8fbc39",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a13425-2e7c-7075-9f79-b146075dd951",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791876213661-wui1sf21vv.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a13308-0cb3-770d-af68-67e14e8fbc39",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a13425-2e77-7eb6-82e0-ff4da64885b8",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791876213655-eq16jr09zi.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a13308-0cb3-770d-af68-67e14e8fbc39",
+              "category": "roomtype_exterior"
             }
           ],
           "groupName": "스카이 디럭스 더블"
@@ -2895,6 +2922,33 @@
               "isSelected": true,
               "blockId": "01a1333e-f6e4-7977-a915-5db7d5578007",
               "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13425-2e6d-7dc0-9436-3d0ee4ca3df2",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791876213692-37cor4gc5a.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f6e4-7977-a915-5db7d5578007",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a13425-2e7a-7c84-a639-7022b82717f4",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791876213695-f842mp2q2z.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f6e4-7977-a915-5db7d5578007",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a13425-2e79-7f86-8085-8e2be24e3af7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791876213697-7hjsu1rh7l.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f6e4-7977-a915-5db7d5578007",
+              "category": "roomtype_exterior"
             }
           ],
           "groupName": "스카이 디럭스 더블"
